@@ -18,4 +18,8 @@ Files:
 4) SXYTHLEI_MIT.mat : Is the MIT data used in the main code.
 
 
+Paper link with citation at: https://www.computer.org/csdl/journal/td/5555/01/11363457/2dB0ba9CMCI 
+
+
+
 
