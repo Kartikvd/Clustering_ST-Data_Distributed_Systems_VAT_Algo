@@ -19,23 +19,7 @@ Files:
 
 
 Paper link at: https://www.computer.org/csdl/journal/td/5555/01/11363457/2dB0ba9CMCI
-For citation use: 
-@ARTICLE{11363457,
-author={Deshpande, Kartik Vishal and Kumar, Dheeraj and Zaiane, Osmar R},
-journal={ IEEE Transactions on Parallel \& Distributed Systems },
-title={{ dnccVAT : A Fully Distributed Approach for Clustering Tendency Assessment of IoT Generated Spatio-Temporal Data }},
-year={2026},
-volume={37},
-number={04},
-ISSN={1558-2183},
-pages={762-774},
-abstract={ Clustering spatio-temporal data in distributed systems is crucial for various applications such as traffic management, smart cities, telecommunications, and environmental monitoring. Despite the notable progress made in this field, several significant challenges persist: (a) in centralized systems, spatio-temporal data clustering necessitates that data be sent to the cloud for processing, which raises concerns about data transmission costs, latency, and privacy and security, (b) centralized systems incur high computational costs and require expensive hardware, resulting in prolonged runtime for algorithms, and (c) lack of well-defined space and time contiguous clusters adversely affects the overall usability of the clusters produced. These challenges are addressed by the proposed dnccVAT algorithm for assessing clustering tendency in spatio-temporal data within distributed systems, which is part of the visual assessment of clustering tendency family of algorithms. This algorithm effectively navigates the complexities associated with spatial-temporal relationships while minimizing communication overhead and ensuring scalability across distributed participant nodes. Extensive experiments were carried out on six real-world datasets, one of them being high-dimensional Big Data, comparing the proposed method with four state-of-the-art spatio-temporal data clustering algorithms and evaluating seven different performance measures to provide valuable insights into the effectiveness of the proposed approach. },
-keywords={Clustering algorithms;Distributed databases;Internet of Things;Databases;Runtime;Temperature sensors;Sensors;Spatiotemporal phenomena;Prediction algorithms;Temperature measurement},
-doi={10.1109/TPDS.2026.3657795},
-url = {https://doi.ieeecomputersociety.org/10.1109/TPDS.2026.3657795},
-publisher={IEEE Computer Society},
-address={Los Alamitos, CA, USA},
-month=apr}
+Citation: K. V. Deshpande, D. Kumar and O. R. Zaiane, "dnccVAT : A Fully Distributed Approach for Clustering Tendency Assessment of IoT Generated Spatio-Temporal Data" in IEEE Transactions on Parallel & Distributed Systems, vol. 37, no. 04, pp. 762-774, April 2026, doi: 10.1109/TPDS.2026.3657795.
 
 
 
