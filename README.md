@@ -18,8 +18,12 @@ Files:
 4) SXYTHLEI_MIT.mat : Is the MIT data used in the main code.
 
 
-Paper link at: https://www.computer.org/csdl/journal/td/5555/01/11363457/2dB0ba9CMCI
-Citation: K. V. Deshpande, D. Kumar and O. R. Zaiane, "dnccVAT : A Fully Distributed Approach for Clustering Tendency Assessment of IoT Generated Spatio-Temporal Data" in IEEE Transactions on Parallel & Distributed Systems, vol. 37, no. 04, pp. 762-774, April 2026, doi: 10.1109/TPDS.2026.3657795.
+Paper link at: 
+https://www.computer.org/csdl/journal/td/5555/01/11363457/2dB0ba9CMCI
+
+
+Citation: 
+K. V. Deshpande, D. Kumar and O. R. Zaiane, "dnccVAT : A Fully Distributed Approach for Clustering Tendency Assessment of IoT Generated Spatio-Temporal Data" in IEEE Transactions on Parallel & Distributed Systems, vol. 37, no. 04, pp. 762-774, April 2026, doi: 10.1109/TPDS.2026.3657795.
 
 
 
